@@ -21,7 +21,7 @@
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
 - 📫 Feel free to reach me out **marvin.okello@sophany.it**
-- LinkedIn: [Okello Marvin](https://www.linkedin.com/in/okellomarvin](https://www.linkedin.com/in/okello-marvin-kevin-ochira-959767158)
+- LinkedIn: [Okello Marvin](https://www.linkedin.com/in/okello-marvin-kevin-ochira-959767158)
 
 
 <!--h1 without bottom border-->
