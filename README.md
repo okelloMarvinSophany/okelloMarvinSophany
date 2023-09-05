@@ -1,5 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -18,14 +16,12 @@
 <!--Intro start-->
 - 🔭 I'm currently working on **React, React Native, Typescript, CSS**
 
-- 🌱 Learning how to **build awesome frontends** everyday
+- 🌱 Adding value to businesses and improving business processes
 
 <!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
 - 📫 Feel free to reach me out **marvin.okello@sophany.it**
 
-<!-- - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886). -->
-<!--Intro end-->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -36,7 +32,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,css,docker,figma,firebase,github,html,js,md,materialui,mongodb,postman,py,redux,tailwind,ts,vscode,gitlab&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,react,git,css,docker,firebase,github,html,js,materialui,mongodb,postman,redux,tailwind,ts,python,linux,django,gitlab&perline=10" />
   </a>
 </p>
 
@@ -59,7 +55,3 @@
   
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
